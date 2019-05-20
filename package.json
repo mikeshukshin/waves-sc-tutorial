@@ -1,0 +1,23 @@
+{
+  "name": "mweb3waves",
+  "version": "1.0.0",
+  "description": "Tutorail for Waves smart contract language RIDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeshukshin/waves-sc-tutorial.git"
+  },
+  "keywords": [
+    "WAVES",
+    "RIDE"
+  ],
+  "author": "Mike Shukshin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeshukshin/waves-sc-tutorial/issues"
+  },
+  "homepage": "https://github.com/mikeshukshin/waves-sc-tutorial#readme"
+}
